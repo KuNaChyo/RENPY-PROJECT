@@ -1,1 +1,1 @@
-# RENPY-PROJECT
+# made by KuNaChyo & Name
