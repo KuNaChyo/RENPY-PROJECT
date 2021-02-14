@@ -1,4 +1,4 @@
-﻿ed# 이 파일에 게임 스크립트를 입력합니다.
+﻿gigun# 이 파일에 게임 스크립트를 입력합니다.
 
 # image 문을 사용해 이미지를 정의합니다.
 # image eileen happy = "eileen_happy.png"
